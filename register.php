@@ -14,7 +14,7 @@
 
 
 <?php
-require_once("PDOSingleton.php");
+
 require_once("util.php");
 
 if( isset($_POST["username"], $_POST["pass1"], $_POST["pass2"])){
